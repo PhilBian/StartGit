@@ -3,4 +3,4 @@ And a fucking free software under GPL
 Git has a mutanle index called stage
 
 
-Creating a new branch named dev
+Creating a new branch named feature1
