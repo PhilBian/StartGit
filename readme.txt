@@ -2,5 +2,5 @@ Git is a fucking distributed version control system
 And a fucking free software under GPL
 Git has a mutanle index called stage
 
+Add a branch feature1
 
-Creating a new branch named feature1
